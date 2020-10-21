@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* :heart:
+* just to do a list
+* another element of the list
